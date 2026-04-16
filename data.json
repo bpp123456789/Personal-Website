@@ -1,0 +1,131 @@
+{
+  "profile": {
+    "image": "images/IMG_6486 3.jpg",
+    "items": [
+      "Name: William Petrik",
+      "Pronouns: He/Him/His",
+      "School: Boston College",
+      "Majors: Computer Science B.A. and Managment B.S.",
+      "Age: 22",
+      "Hometown: Milton, MA"
+    ],
+    "email": "petrikw@bc.edu",
+    "github": {
+      "link": "https://github.com/bpp123456789",
+      "icon": "fa-brands fa-github"
+    },
+    "linkedin": {
+      "link": "https://www.linkedin.com/in/william-petrik-101290257/",
+      "icon": "fa-brands fa-linkedin"
+    }
+  },
+  "about": [
+    "I am an undergraduate student at Boston College, graduating in 2026. I study Computer Science and Management. Also, I have a concentration in Management and Leadership in the Carroll School of Management. I most enjoys the intersections of technology and humanity, especially with UI/UX and product management. My coursework includes Business Statistics, Financial Accounting, Computer Organization, Algorithms, Fundamentals of Finance, Computer Systems, Web Application Development, Information Systems, Database Management Systems, Leadership, Operations Management, Computer Networks, and IOS Development.",
+    "At BC, I am a trip leader for Outdoor Adventures where I plan and lead trips for other students. Currently, I work for multiple institutions including SciSure, the Scouts BSA, and Boston College's Recreation Center. At SciSure, I works as a customer service associate. With the Scouts, I work as a climbing instructor. At BC's Rec Center, I work as a route setter."
+  ],
+  "news": [
+    {
+      "title": "Joined SciSure as a Customer Service Associate",
+      "date": "July 2025"
+    },
+    {
+      "title": "Ended my time abroad in Paris",
+      "date": "June 2025"
+    },
+    {
+      "title": "Started my time abroad in Paris",
+      "date": "Jan 2025"
+    },
+    {
+      "title": "Ended my time as Lead Route Setter",
+      "date": "Dec 2024"
+    },
+    {
+      "title": "Finished my last year as a camp counselor",
+      "date": "Aug 2024"
+    }
+  ],
+  "cards": [
+    {
+      "image": "images/IMG_5244.jpg",
+      "link": "experience.html",
+      "alt": "Climbing",
+      "title": "Experience",
+      "description": "Explore the different jobs and positions I have held throughout my life"
+    },
+    {
+      "image": "images/IMG_4738.jpg",
+      "link": "projects.html",
+      "alt": "Presentation",
+      "title": "Projects",
+      "description": "Explore the different projects and presentations I have helped with"
+    },
+    {
+      "image": "images/IMG_5263.jpg",
+      "link": "leadership.html",
+      "alt": "Outdoors",
+      "title": "Leadership",
+      "description": "Explore the different leadership positions and philosophies I have"
+    }
+  ],
+  "pages": [
+    {
+      "id": 1,
+      "title": "experience",
+      "things": [
+        {
+          "Type": "Work Experience",
+          "Title": "Customer Service Associate",
+          "Organization": "SciSure",
+          "Date": "July 2025 - Present",
+          "Description": "This is some text to describe the things that I have been doing there. For now this should nly act as placeholder in order for me to have text that makes coherent text but not provide any value other than taking up a lot of space so I can configure the css to the desired look.",
+          "Image": "SciSure.jpeg"
+        },
+        {
+          "Type": "Work Experience",
+          "Title": "COPE and Climbing Instructor",
+          "Organization": "Scouts BSA",
+          "Date": "September 2018 - Present",
+          "Description": "This is some text to describe the things that I have been doing there. For now this should nly act as placeholder in order for me to have text that makes coherent text but not provide any value other than taking up a lot of space so I can configure the css to the desired look.",
+          "Image": "smth.jpg"
+        },
+        {
+          "Type": "Work Experience",
+          "Title": "Lead Route Setter",
+          "Organization": "Boston College Campus Recreation",
+          "Date": "August 2023 - December 2024",
+          "Description": "This is some text to describe the things that I have been doing there. For now this should nly act as placeholder in order for me to have text that makes coherent text but not provide any value other than taking up a lot of space so I can configure the css to the desired look.",
+          "Image": "smth.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Projects",
+      "things": [
+        {
+          "Type": "School Project",
+          "Title": "Personal Website",
+          "Organization": "Myself",
+          "Date": "Nov 2026",
+          "Description": "This site. This is the website that I have been building to show the different skills I have learned throughout my web application development course.",
+          "Image": "smth.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Leadership",
+      "things": [
+        {
+          "Type": "Work Leadership",
+          "Title": "This is not how I wanted to setup my website",
+          "Organization": "why am i doing this to myself",
+          "Date": "ew",
+          "Description": "This page deserves negative style points. Dont' even try the cards on the main page, this was so much work",
+          "Image": "smth.jpg"
+        }
+      ]
+    }
+  ]
+}
