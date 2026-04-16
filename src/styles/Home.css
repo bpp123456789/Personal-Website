@@ -1,0 +1,30 @@
+main {
+  display: grid;
+  grid-template-columns: 3fr auto auto;
+  justify-content: center;
+}
+
+main div {
+  padding: 10px;
+  align: center;
+}
+
+@media only screen and (max-width: 768px) {
+  main {
+    grid-template-columns: 1fr;
+
+    a {
+      justify-self: center;
+      max-width: 400px;
+    }
+
+    div {
+      justify-self: center;
+      max-width: 400px;
+    }
+
+    .about {
+      max-width: 400px;
+    }
+  }
+}

@@ -1,3 +1,5 @@
+import '../styles/ExpCard.css'
+
 export default function ExpCard({ item }) {
   return (
     <div className="expCard">

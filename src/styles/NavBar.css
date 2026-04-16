@@ -1,0 +1,18 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(222, 247, 247);
+  margin: 0px 0px 5px 0px;
+
+  div {
+    display: flex;
+    padding: 5px;
+  }
+}
+
+#home {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

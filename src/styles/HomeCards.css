@@ -1,0 +1,45 @@
+.cards {
+  background-color: rgb(222, 247, 247);
+}
+
+.card {
+  background-color: rgb(255, 255, 255);
+  padding: 5px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  margin: 10px 10px 10px 10px;
+  box-shadow: 10px 10px rgb(157, 174, 180);
+  max-width: 300px;
+
+  h3 {
+    padding: 0px;
+    margin: 5px 0px 0px 5px;
+  }
+
+  img {
+    border-radius: 10px;
+    width: 100%;
+    max-width: 300px;
+    object-fit: cover;
+  }
+
+  p {
+    margin: 5px 5px 0px 5px;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .cards {
+    display: flex;
+    grid-column-start: 1;
+    grid-column-end: 4;
+    justify-content: space-evenly;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .cards {
+    display: grid;
+  }
+}

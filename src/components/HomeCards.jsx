@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom'
+import '../styles/HomeCards.css'
 
 const linkMap = {
   'experience.html': '/experience',

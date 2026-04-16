@@ -1,0 +1,22 @@
+.profile {
+  justify-self: center;
+  max-width: 350px;
+  padding: 5px;
+  min-width: 200px;
+  grid-row-start: 1;
+  grid-row-end: 3;
+
+  img {
+    border-radius: 25px;
+    width: 100%;
+    max-width: 350px;
+    object-fit: cover;
+  }
+}
+
+.info {
+  list-style: none;
+  padding: none;
+  margin: none;
+  max-width: 350px;
+}

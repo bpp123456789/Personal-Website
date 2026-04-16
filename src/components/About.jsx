@@ -1,3 +1,5 @@
+import '../styles/About.css'
+
 export default function About({ about }) {
   return (
     <div className="about">

@@ -1,3 +1,4 @@
+import '../styles/Home.css'
 import Profile from '../components/Profile'
 import About from '../components/About'
 import News from '../components/News'

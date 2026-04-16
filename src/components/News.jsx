@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import '../styles/News.css'
 
 export default function News({ news }) {
   const [query, setQuery] = useState('')

@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import '../styles/DetailPage.css'
 import ExpCard from '../components/ExpCard'
 
 export default function DetailPage({ page }) {

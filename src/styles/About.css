@@ -1,0 +1,13 @@
+.about {
+  background-color: rgb(222, 247, 247);
+  border-radius: 20px;
+  min-width: 200px;
+  max-width: 600px;
+  padding: 10px;
+  align: center;
+  margin: 5px 0px 10px 0px;
+
+  p {
+    margin: 5px 0px 0px 0px;
+  }
+}

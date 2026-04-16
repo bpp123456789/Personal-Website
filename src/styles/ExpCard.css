@@ -1,0 +1,33 @@
+.expCard {
+  display: flex;
+  flex-direction: row;
+
+  img {
+    object-fit: cover;
+    max-width: 350px;
+    width: 100%;
+  }
+
+  .desc {
+    display: flex;
+    flex-direction: column;
+
+    h5 {
+      margin: 0px 0px 5px 0px;
+      color: rgb(60, 60, 60);
+    }
+
+    h3 {
+      margin: 0px 0px 5px 0px;
+    }
+
+    h4 {
+      margin: 0px 0px 5px 0px;
+      font-weight: 400;
+    }
+
+    p {
+      margin: 0px 0px 0px 0px;
+    }
+  }
+}

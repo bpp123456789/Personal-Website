@@ -1,0 +1,53 @@
+@font-face {
+  font-family: 'Nunito';
+  src: url('/fonts/Nunito-VariableFont_wght.ttf') format('truetype');
+  font-weight: 100 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Nunito';
+  src: url('/fonts/Nunito-Italic-VariableFont_wght.ttf') format('truetype');
+  font-weight: 100 900;
+  font-style: italic;
+}
+
+body {
+  font-family: "Nunito", sans-serif;
+}
+
+a {
+  color: black;
+  padding: 5px;
+  text-decoration: none;
+}
+
+button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 1rem;
+  padding: 5px 10px;
+}
+
+button:hover {
+  text-decoration: underline;
+}
+
+i {
+  font-size: 25px;
+}
+
+h4 {
+  margin: 0px;
+}
+
+.search input {
+  width: 100%;
+  margin: 0.5rem 0 0.5rem 0;
+  font-size: 0.9rem;
+  padding: 0.5rem;
+  border-radius: 1rem;
+  border: 1px solid #eeeeee;
+}

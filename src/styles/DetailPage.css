@@ -1,0 +1,5 @@
+.search {
+  grid-column: 1 / span 3;
+  width: 60%;
+  justify-self: center;
+}
